@@ -28,4 +28,4 @@ The ability to systematically transform an unencrypted legacy application into a
 
 ---
 
-*Developed by Corey Peterson-Lopez*
+*Developed by Corey Peterson*
