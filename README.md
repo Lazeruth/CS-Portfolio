@@ -2,7 +2,7 @@
 ---
 ## Comprehensive Coursework & Project Repository
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square) ![C++](https://img.shields.io/badge/C++-17-blue?style=flat-square) ![Java](https://img.shields.io/badge/Java-11+-orange?style=flat-square) ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square) ![C++](https://img.shields.io/badge/C++-17-blue?style=flat-square) ![Java](https://img.shields.io/badge/Java-11+-orange?style=flat-square) ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?style=flat-square) ![Android](https://img.shields.io/badge/Android-14%2B-3DDC84?logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-Java-3DDC84?logo=androidstudio&logoColor=white)
 
 ---
 
@@ -20,6 +20,7 @@ The purpose of this repository is to consolidate my academic projects into a sin
   Foundational scripting, data analysis, and algorithm implementation.
 * **[CS-370-Emerging-Trends](./CS-370-Emerging-Trends/)**  
   Advanced coursework featuring Artificial Intelligence, Deep Q-Learning, and autonomous agents.
-
+* **[CS-360-MobileApp-Development](./CS-360-MobileApp-Development/)**       
+  Mobile application development featuring user-centered design, local SQLite database integration, and iterative Android testing.    
 ---
 *Developed by Corey Peterson*
